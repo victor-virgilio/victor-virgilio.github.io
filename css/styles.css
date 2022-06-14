@@ -157,7 +157,7 @@
 #btn-projects ion-icon,
 #btn-projects span{
     flex 1 1 0;
-    margin-right: 8px;
+    margin-right: 5px;
 }
 
 #btn-projects ion-icon{
@@ -243,6 +243,7 @@
 
     #btn-projects{
         margin: 20px auto;
+        width: 280;
     }
 
     .skills-box{
