@@ -214,6 +214,11 @@
         flex-direction: column;
     }
 
+    #name{
+        font-size: 29px;
+        margin-bottom: 15px;
+    }
+
     #bio-container{
         min-height: auto;
         border-right: none;
@@ -243,7 +248,7 @@
 
     #btn-projects{
         margin: 20px auto;
-        width: 280;
+        width: 150px;
     }
 
     .skills-box{
