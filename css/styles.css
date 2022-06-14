@@ -176,6 +176,11 @@
     font-size: 32px;
 }
 
+#img-delphi{
+    max-width: 45px;
+    max-height: 45px;    
+}
+
 #skills-container{
     display: flex;
     flex-wrap: wrap;
